@@ -17,6 +17,7 @@ This project allows users to rent cars by selecting from a list of available veh
 1. Clone this repository to your local machine:
     ```bash
     git clone https://github.com/atishay-jain-2003/Car_Rental_Project.git
+    cd Car_Rental_Project
     ```
 2. Compile the project using a C++ compiler (e.g., g++):
     ```bash
